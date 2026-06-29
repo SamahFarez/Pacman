@@ -1,0 +1,3 @@
+/home/ikram/Documents/EFREI/C/PACMAN/efrei-c-2025-rs-2-farez/projects/pacman/src/build/CMakeFiles/pacman.dir
+/home/ikram/Documents/EFREI/C/PACMAN/efrei-c-2025-rs-2-farez/projects/pacman/src/build/CMakeFiles/edit_cache.dir
+/home/ikram/Documents/EFREI/C/PACMAN/efrei-c-2025-rs-2-farez/projects/pacman/src/build/CMakeFiles/rebuild_cache.dir
